@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/52be0bdc9d6a22b2fcacd549a1c1f619/transformed/appcompat-1.4.1/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    }
+]

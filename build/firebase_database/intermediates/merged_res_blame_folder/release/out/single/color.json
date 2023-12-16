@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/firebase_database/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/19fea4fb28dedd992824e13cc158e7a1/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/firebase_database/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/19fea4fb28dedd992824e13cc158e7a1/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/firebase_database/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/19fea4fb28dedd992824e13cc158e7a1/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    }
+]

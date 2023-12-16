@@ -1,0 +1,4 @@
+#Wed Jul 27 17:18:25 WEST 2022
+base.0=/Users/mac/projet1/qrcode_reader/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

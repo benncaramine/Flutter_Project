@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/menu/example_menu2.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/1ef57eec9e43b3d8e5a7f4e2e2b93ce1/transformed/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/Users/mac/projet1/qrcode_reader/build/qr_code_scanner/intermediates/merged_res/release/menu/example_menu.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/1ef57eec9e43b3d8e5a7f4e2e2b93ce1/transformed/core-1.7.0/res/menu/example_menu.xml"
+    }
+]
